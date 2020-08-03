@@ -1,4 +1,10 @@
-#+TITLE: Foo
-#+TAGS:
 
+#+TITLE: Foo
+#+TAGS: test article
+** #+BEGIN_QUERY
+what is query?
+#+END_QUERY
+** #+BEGIN_EXAMPLE
+what is example?
+#+END_EXAMPLE
 ** 
