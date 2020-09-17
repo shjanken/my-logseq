@@ -1,0 +1,8 @@
+* Aug 3rd, 2020
+** This is first Headline
+** Test Org babel
+#+BEGIN_SRC javascript
+console.log("hello world")
+#+END_SRC
+** [[Aug 3rd, 2020]] 21:00
+** [[Foo]] test two way references
