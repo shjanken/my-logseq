@@ -1,2 +1,6 @@
 #+TITLE: test
 
+** This block will be ref by block
+:PROPERTIES:
+:custom_id: 5f82d137-fb2c-4c22-a65b-e46b5b46e900
+:END:
