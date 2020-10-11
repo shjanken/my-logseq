@@ -11,7 +11,7 @@
 #+BEGIN_QUOTE
 This is quote
 #+END_QUOTE
-*** Comment
-#+BEGIN_COMMENT
-This is Comment block
-#+END_COMMENT
+***
+#+BEGIN_IMPORTANT
+sdf
+#+END_IMPORTANT
