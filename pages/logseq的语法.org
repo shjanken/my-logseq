@@ -15,3 +15,12 @@ This is quote
 #+BEGIN_IMPORTANT
 Import Message
 #+END_IMPORTANT
+*** Warnning
+#+BEGIN_WARNING
+Warning Message
+#+END_WARNING
+*** Query 是什么东西
+#+BEGIN_QUERY
+What is query?
+#+END_QUERY
+***
