@@ -1,4 +1,13 @@
 #+TITLE: logseq的语法
 
 ** how to use [[reference block]]?
-**
+** 使用 `/` 可以搜索输入语法块, 比如 *时间* 17:26 , *日期* [[Oct 11th, 2020]] 等等...
+** 使用 `<` 符号可以输入和 `org-mode` 里面类似的块结构
+*** 代码块
+#+BEGIN_SRC sh
+# this is comment in bash
+#+END_SRC
+*** 引用
+#+BEGIN_QUOTE
+This is quote
+#+END_QUOTE
