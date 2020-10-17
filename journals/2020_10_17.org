@@ -1,3 +1,3 @@
 #+TITLE: Oct 17th, 2020
 
-** 
+** 读书, [[oracle PL/SQL 程序设计]]
