@@ -6,4 +6,5 @@
 *** Cpt.3.1: Follow the data
 在 ` [[Elixir Phoenix]]` 框架中数据的流动
 **** Cpt 3.1.1 The basic of a web request 
-数据在 [[Elixir Phoenix]] 中, 首先到达的地发是 ~Endpoint~
+数据在 [[Elixir Phoenix]] 中, 首先到达的地发是
+**** Cpt 3.1.2 Endpoint
