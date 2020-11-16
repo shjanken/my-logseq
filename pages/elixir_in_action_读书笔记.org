@@ -6,5 +6,8 @@
 *** Cpt.3.1: Follow the data
 在 ` [[Elixir Phoenix]]` 框架中数据的流动
 **** Cpt 3.1.1 The basic of a web request 
-数据在 [[Elixir Phoenix]] 中, 首先到达的地发是
-**** Cpt 3.1.2 Endpoint
+数据在 [[Elixir Phoenix]] 中, 首先到达的地发是 ((5fb22834-1c34-4bdd-afc3-3c62fa8a51be))
+**** Cpt 3.1.2 Endpoint 组建
+:PROPERTIES:
+:id: 5fb22834-1c34-4bdd-afc3-3c62fa8a51be
+:END:
