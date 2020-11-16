@@ -5,3 +5,4 @@
 *** Phoenix 使用了 `[[erlang]]` 的 `[[Cowboy]]` 作为自己的 [[web 服务器]]. 不过 `[[Elixir]]` 已经封装了 [[Cowboy]] 所以无需我们对他有太多的了解
 *** Cpt.3.1: Follow the data
 在 ` [[Elixir Phoenix]]` 框架中数据的流动
+**** Cpt 3.1.1 The basic of a web request
